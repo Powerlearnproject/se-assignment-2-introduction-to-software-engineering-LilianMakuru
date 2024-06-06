@@ -233,10 +233,4 @@ There are several ways software engineers can ensure they adhere to ethical stan
 Following Ethical Codes: Many professional organizations have ethical codes that outline principles like privacy, security, and fairness. Engineers should familiarize themselves with these codes and strive to uphold them in their practice.
 Questioning Unethical Practices: If engineers see unethical practices being implemented, they have a responsibility to speak up and advocate for responsible software development.
 Continuing Education: The technological landscape and ethical considerations are constantly evolving. By staying up-to-date on emerging issues and best practices, engineers can make informed decisions.
-Transparency: Being transparent about how software works, what data it collects, and how it uses that data is crucial for building user trust. Open communication and clear documentation are key
-
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+Transparency: Being transparent about how software works, what data it collects, and how it uses that data is crucial for building user trust. Open communication and clear documentation 
